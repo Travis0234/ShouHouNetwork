@@ -18,7 +18,7 @@
 ### 📖 品牌介绍
 * **官方名称：** 守候网络
 * **官网：** [守候网络](https://ncdn1.sntp.uk/auth/register?code=fULCzXZT)
-* **我的邀请码：** [https://ncdn1.sntp.uk/auth/register?code=fULCzXZT](https://ncdn1.sntp.uk/auth/register?code=fULCzXZT)
+* **我的邀请码：** [https://bit.ly/4A2ZFBA](https://bit.ly/4A2ZFBA)
 * **行业地位：** **机场圈最知名的 Emby 影视服务**，订阅即送 Emby，速度不错，影视资源丰富。机场本身**专线接入**，低至 **18 元/月**，很便宜。还定期开放**公益免费 Emby 服务器注册**。
 * **博客评测：** [守候网络：订阅即送 Emby](https://travisblog.qzz.io/article/shouhou-review)
 
